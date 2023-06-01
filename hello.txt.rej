@@ -1,0 +1,4 @@
+diff a/hello.txt b/hello.txt	(rejected hunks)
+@@ -1,2 +0,0 @@
+-hi
+-hello
